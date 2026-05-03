@@ -17,6 +17,11 @@ Built around the **KISS** (Keep It Simple, Stupid) principle, this project guara
 - **Live Price Updates:** Integration with Yahoo Finance to pull real-time investment pricing directly to your dashboard.
 - **Modern UI:** Built with Vite and React for a fast and beautiful user experience.
 
+## Current State
+
+<img width="1484" height="803" alt="image" src="https://github.com/user-attachments/assets/fefb5374-6ecb-490f-8d78-6a2103f03aaf" />
+
+
 ## 🚧 Status: Under Development
 
 This project is currently **under active development**. 
