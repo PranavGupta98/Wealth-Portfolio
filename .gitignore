@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+server/node_modules
+package-lock.json
+
+# Environment variables (if you add them later)
+.env
+.env.local
+
+# Build outputs
+dist
+dist-ssr
+
+# Sensitive Financial Data (DO NOT UPLOAD)
+*.csv
+*.xlsx
+
+# Backend Data and Logs
+server/data/
+server/session_logs/
+
+# OS/Editor files
+.DS_Store
+.vscode/
